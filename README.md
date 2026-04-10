@@ -1,6 +1,6 @@
 # Hi there
 
-I'm Qanqe — IT infrastructure specialist, sysadmin, and QA tester based in Ethiopia. I take broken or unconfigured environments and make them work, then document exactly what happened so the next person doesn't have to guess.
+I'm Qanqe - IT infrastructure specialist, sysadmin, and QA tester based in Ethiopia. I take broken or unconfigured environments and make them work, then document exactly what happened so the next person doesn't have to guess.
 
 Currently doing install testing and bug reporting for an open-source AI server project across multiple hardware environments. Before that: TrueNAS SMB configuration, ERPNext deployment from scratch, Linux diagnostics, Proxmox networking, and a few other things you will find below.
 
