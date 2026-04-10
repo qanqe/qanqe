@@ -7,7 +7,7 @@ Currently doing install testing and bug reporting for an open-source AI server p
 🔭 Currently working on install testing across Win11, Win10, Linux Mint VM, and Fedora VM for an active client contract
 🌱 Expanding into automation with n8n, GoHighLevel, and Python scripting
 💬 Ask me about Linux, Docker, TrueNAS, ERPNext, or anything sysadmin related
-📫 Reach me on Upwork: https://www.upwork.com/freelancers/qanqe
+📫 Reach me on Upwork: https://www.upwork.com/freelancers/~017f546da16f10943d
 
 ---
 
